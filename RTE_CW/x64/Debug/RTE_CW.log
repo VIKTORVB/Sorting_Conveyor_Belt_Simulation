@@ -1,0 +1,18 @@
+﻿  collect_sensor.cpp
+  size_sensor.cpp
+  gate_timer.cpp
+  reset_size.cpp
+  reset_collect.cpp
+  obj_sort.cpp
+C:\Users\Victorious\Desktop\Real Time Embbedded\RTE_CW\ENG620_T03_900615_901070\ENG620_T03_900615_901070\RTE_CW\obj_sort.cpp(11,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  conv_sel.cpp
+C:\Users\Victorious\Desktop\Real Time Embbedded\RTE_CW\ENG620_T03_900615_901070\ENG620_T03_900615_901070\RTE_CW\conv_sel.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  thread_generator.cpp
+  user_interface.cpp
+  start_motor.cpp
+  stop_motor.cpp
+  Generating Code...
+C:\Users\Victorious\Desktop\Real Time Embbedded\RTE_CW\ENG620_T03_900615_901070\ENG620_T03_900615_901070\RTE_CW\user_interface.cpp(53): warning C4715: 'checkIfNumb': not all control paths return a value
+C:\Users\Victorious\Desktop\Real Time Embbedded\RTE_CW\ENG620_T03_900615_901070\ENG620_T03_900615_901070\RTE_CW\size_sensor.cpp(48): warning C4715: 'readSizesensors': not all control paths return a value
+  RTE_CW.vcxproj -> C:\Users\Victorious\Desktop\Real Time Embbedded\RTE_CW\ENG620_T03_900615_901070\ENG620_T03_900615_901070\x64\Debug\ENG620_T03_900615_901070.exe
