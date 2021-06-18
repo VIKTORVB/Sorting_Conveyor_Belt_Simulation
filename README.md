@@ -1,2 +1,2 @@
-# Sorting_Conveyor_Belt_Simulation
-A simulation of a conveyor belt that sorts differently sized objects.
+# Sorting Conveyor Belt Simulation
+The program is menat to simulate a real-time embedded system. The main goal is to create a system that is able to destinguish between differently seized objects and either remove them from the conveyor or let them pass trough. The full report of this project can be found here [link](https://drive.google.com/file/d/1mei5rp66eSXLIQnFsUt1XQtMVQX_wFPR/view?usp=sharing)
